@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="phone-mockup">
+        <div class="screen">
+            <div class="event-header">
+                <img src="event-image.jpg" alt="Event Image" class="event-image">
+                <h1>BIENESTAR FÍSICO Y ECONÓMICO</h1>
+            </div>
+            <div class="event-details">
+                <p><strong>When:</strong><br>Sunday, August 11, 2024<br>Tuesday, August 13, 2024</p>
+                <p><strong>Schedule:</strong><br>11:00 PM - 1:00 PM (GMT +02:00)</p>
+                <p><strong>Organizer:</strong><br>María Sánchez Barrera</p>
+                <p><strong>Phone:</strong><br>+34 613 02 44 18</p>
+            </div>
+            <div class="event-actions">
+                <button class="calendar-button">Add to calendar</button>
+                <button class="share-button">Share</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
